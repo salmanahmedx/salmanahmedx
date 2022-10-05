@@ -3,7 +3,7 @@
     <img src="https://c.tenor.com/727qo8TxQjcAAAAd/jujutsu-kaisen-gojo-satoru.gif" width="500px" />
   </a>
 
-## Aspiring SWE 💫 Web Animation Enthusiast 🙌
+## SWE 💫 Web Animation Enthusiast 🙌
 
 ### Technologies:
 
